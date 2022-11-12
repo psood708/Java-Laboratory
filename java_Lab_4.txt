@@ -1,0 +1,24 @@
+1) To find out the how many vowel and consonants ar there in a string
+2) How many words start from capital
+3) Frequency of vowels in a word/sentence
+
+
+1)
+import java.util.*;
+class New{
+  public static void main(String[]args){
+       
+       Scanner sc = new Scanner(System.in);
+       String str = sc.nextLine();
+       int num = str.length();
+       for(int i =0;i<num;i++){
+       
+
+
+
+      }
+       
+
+}
+
+}
