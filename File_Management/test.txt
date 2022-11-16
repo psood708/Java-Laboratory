@@ -1,8 +1,8 @@
+
+Name: Parth, Age: 23, College: PDEU, Branch: Computers, Batch: 2025
 21BCP252
 My name is Parth!
 I am in PDEU
-Learning JAVA
-
-Name: Parth, Age: 23, College: PDEU, Branch: Computers, Batch: 2025
-Name: Rajesh, Age: 21, College: PDEU, Branch: Chemical, Batch: 2023
 Name: prakash, Age: 21, College: pdeu, Branch: civil, Batch: 2023
+Name: Rajesh, Age: 21, College: PDEU, Branch: Chemical, Batch: 2023
+Learning JAVA
